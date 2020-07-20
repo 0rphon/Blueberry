@@ -1,8 +1,9 @@
 # Blueberry
 a custom touch screen music player made for the raspberry pi. part of me uploading all my old projects\
-made for use with adafruit-pitft touch screen display. no idea if it still works properly\
+plays music from a Music/ folder with each subdir as its own genre/playlist\
+made for use on rasbian with adafruit-pitft touch screen display. no idea if it still works properly\
 \
-steps to set up:\
+STEPS TO SET IT UP:\
 #enable vnc\
 raspi-config\
 ENABLE VNC\
